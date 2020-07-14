@@ -7,36 +7,36 @@
         "Header":"CODE",
         "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
         "link":"https://anitab-org.zulipchat.com/",
-        "img":"./assets/code.png"
+        "img":"./assets/contribute/code.png"
     },
     "Doc":{
         "Header":"DOCUMENTATION/TRAINING",
         "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
         "link":"https://anitab-org.zulipchat.com/",
-        "img":"./assets/doc.png"
+        "img":"./assets/contribute/doc.png"
     },
     "design":{
         "Header":"DESIGN",
         "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
         "link":"https://anitab-org.zulipchat.com/",
-        "img":"./assets/design.png"
+        "img":"./assets/contribute/design.png"
     },
     "test":{
         "Header":"TESTING",
         "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
         "link":"https://anitab-org.zulipchat.com/",
-        "img":"./assets/test.png"
+        "img":"./assets/contribute/test.png"
     },
     "out":{
         "Header":"OUTREACH/RESEARCH",
         "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
         "link":"https://anitab-org.zulipchat.com/",
-        "img":"./assets/out.png"
+        "img":"./assets/contribute/out.png"
     },
     "project":{
         "Header":"PROJECT MANAGEMENT",
         "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
         "link":"https://anitab-org.zulipchat.com/",
-        "img":"./assets/project.png"
+        "img":"./assets/contribute/project.png"
     }
 }
